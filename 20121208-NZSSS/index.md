@@ -20,7 +20,7 @@ mode        : selfcontained # {standalone, draft}
 
 ## Experimental Setup
 
-![plot of chunk generate_maps](_/Documents/PROJECTS/bh-soc-mapping/slides/20121208-NZSSS/figures/generate_maps.png) 
+![plot of chunk generate_maps](../slides/20121208-NZSSS/figures/generate_maps.png) 
 
 
 
